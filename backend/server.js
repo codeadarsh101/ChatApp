@@ -44,12 +44,6 @@ if (process.env.NODE_ENV === "production") {
   });
 }
 
-
-
-
-
-
-
 //--------------------Deployment--------------------------
 
 // Error handling middleware
